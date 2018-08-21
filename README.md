@@ -19,5 +19,5 @@ Execute:
 
 If everything went fine, a single window comes on screen: 
 open an image file (actually only .png and .jpg) pressing 
-the 'open file' button, then press 'encode' and finally copy the resulting string to 
-your clipboard clicking the 'copy to clipboard' button.
+the `open file` button, then press `encode` and finally copy the resulting string to 
+your clipboard clicking the `copy to clipboard` button.
