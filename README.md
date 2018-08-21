@@ -1,6 +1,6 @@
 # img2base64
 
-Simple Python 3 GUI tool that allows to quickly get a string that represents the 
+Simple Python 3 GUI tool that allows to quickly get the string that represents the 
 base64 encoding of an image file.
 
 ### Usage ###
